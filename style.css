@@ -1,1 +1,11 @@
-
+body {background-color: #339fc0fd; text-align: justify;font-size: 18px;}
+h1 {text-align: center;background-color: #f0eb68 ;color: #173138; }
+h3 {text-align: justify;color:  #17313B; }
+b {color: rgb(34, 164, 204); font-size: 18px; }
+i {color: rgb(119, 228, 109); font-size: 18px; }
+header, footer{ background-color: #499CBA; color: #ceeffc; text-align: center; font-size: 20px; }
+main {background-color: #86f071;}
+.primeiroparagrafo{text-align: justify;font-size: 18px;border: black solid 2px; padding: 10px;margin: 10px 40px 80px 15px;}
+.segundoparagrafo{text-align: justify;font-size: 18px;border: black solid 2px; padding: 10px;margin: 10px 40px 80px 15px;}
+#logorestaurante {width:2%; height: 2%}
+#lista {display: inline-block;}
