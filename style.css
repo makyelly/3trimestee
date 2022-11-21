@@ -5,8 +5,8 @@ b {color: rgb(15, 31, 36); font-size: 18px; }
 i {color: rgb(207, 230, 204); font-size: 18px; }
 header, footer{ background-color: #252f33; color: #ceeffc; text-align: center; font-size: 20px; }
 main {background-color: #dbf7d6;}
-nav li {text-transform: uppercase;list-style: none; text-decoration: none}
-nav a {color: azure;list-style: none;text-decoration: none}
+nav li {text-transform: uppercase;list-style: none; text-decoration: none;}
+nav a {color: azure;list-style: none;text-decoration: none;}
 .primeiroparagrafo{
     text-align: justify;
     font-size: 18px;
